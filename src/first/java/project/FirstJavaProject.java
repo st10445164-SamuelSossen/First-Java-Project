@@ -29,6 +29,10 @@ public class FirstJavaProject {
     {
        System.out.println("Hello World!");
     }
+    private void HelloWorld()
+    {
+        System.out.println("Hello World 4");
+    }
 }
 
 //--------------------- End Of File ------------------------------------------//
